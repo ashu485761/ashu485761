@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Biswal</h1>
-<h3 align="center">Beginner in C++ & DSA | On a journey to growth</h3>
+<h3 align="center">Beginner in C++ | On a journey to growth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu485761&label=Profile%20views&color=0e75b6&style=flat" alt="ashu485761" /> </p>
 
